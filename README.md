@@ -13,7 +13,7 @@ Halo semua perkenalkan saya Toni Andreas Susanto, biasa dipanggil Toni. Saya mer
 - flask
 - matplotlib dll.
 
-Atau Bapak Ibu cukup menginstall requirements.txt dengan cara berikut
+Atau Anda cukup menginstall requirements.txt dengan cara berikut
 
 ```python
 pip install -r requirements.txt
