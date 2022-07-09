@@ -29,6 +29,7 @@ pip install -r requirements.txt
 
 
 ## File
+
    1. File Pertama :
       - `README.md` -> Berisi penjelasan pada file ini.
       - `requirements.txt` -> packages-packages yang dibutuhkan dalam pembuatan environment.
