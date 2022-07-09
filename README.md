@@ -32,11 +32,11 @@ pip install -r requirements.txt
    1. File Pertama :
       - `README.md` -> Berisi penjelasan pada file ini.
       - `requirements.txt` -> packages-packages yang dibutuhkan dalam pembuatan environment.
-      - `Notebook Skeleton Guide Capstone Beautiful Soup.ipynb` -> file notebook yang digunakan dalam membuat project ini. Terdapat tambahan visualiasi dengn `plotly`.
+      - `Notebook Skeleton Guide Capstone Beautiful Soup.ipynb` -> file notebook yang digunakan dalam membuat project ini. Terdapat tambahan visualiasi dengn                 `plotly`.
       - `Notebook Skeleton Guide Capstone Beautiful Soup.html` -> file html agar memudahkan melihat notebook langsung dalam website (chrome etc).
       - `asset` -> foto yang digunakan dalam menampilkan gambar di notebook.
-
-    2. File Aplikasi
+      
+    2. File Aplikasi :
       - `static` (style.css) -> file CSS yang digunakan dalam memberi warna dan design aplikasi.
       - `template` (index.html) -> file html yang digunakan dalam membuat kerangka aplikasi.
       - `app.py` -> program yang menjalankan aplikasinya.
